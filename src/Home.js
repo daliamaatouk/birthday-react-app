@@ -13,6 +13,7 @@ const Home = () => {
     
     return (
       <div className="home">
+        <p>Hi</p>
       <div className="container">
       <h3>5 birthdays today</h3>
       { deletear && <article className="person">
